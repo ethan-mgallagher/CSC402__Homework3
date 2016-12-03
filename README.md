@@ -6,6 +6,7 @@ Prompt:
 Project 3 - CSC 402/502
 STL && Streams
 The point of this project will be to gain a familiarity and understanding of working with some common elements of the STL and using streams. You will be writing a full application, which mimics a hospital emergency room triage (very simplified) that has two major functions: cataloging/reporting of patient info and simulation of “treating” patients.
+
 Acceptance Criteria
 As a nurse, I want to add a patient to the system.
 As a doctor, I want to “treat” a patient in triaged order.
@@ -32,9 +33,3 @@ Materials
 On blackboard you will find:
 The Singleton Logger class, minus the implementation of the additional logging functionality.
 Sample input data. (There will be different data I use to test the program).	
-Useful Functions
-#include <chrono>
-#include <thread>
-std::this_thread::sleep_for(std::chrono::milliseconds(x));
-Submission
-Place all of your source code files inside a zip as a project as ‘<lastName>_project3’, and submit to Blackboard by the due date.
