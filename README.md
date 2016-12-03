@@ -33,7 +33,7 @@ As a user, I want to be able to print out a guide on each command the system off
 As an admin, I want to bulk add patients into the system (from a file).
 
 As an admin, I want all operations of the system to be logged to a file that I can specify.
-----
+
 As a professor, my students should use standard STL containers, algorithms, and iterators to solve the problem.
 
 As a professor, students should use the proper STL container for a triaging system.
@@ -48,7 +48,3 @@ As a professor, and as a user, I want a simple command-line style interface to e
 Triaging patients is by priority order, and then first come, first serve. Priority is an integer, with lower number being a higher priority. E.g. 1 is higher than 10.
 Do not worry about invalid data cases. 
 All commands are accessible to all users, so you do not need to worry about roles, permissions, etc.
-Materials
-On blackboard you will find:
-The Singleton Logger class, minus the implementation of the additional logging functionality.
-Sample input data. (There will be different data I use to test the program).	
